@@ -61,23 +61,23 @@ Because Antares includes large binaries (>50 MB, some >100 MB), the repo uses Gi
 
 Linux (Debian/Ubuntu/Kali):
 
-sudo apt update
-sudo apt install git-lfs
-git lfs install
+    sudo apt update
+    sudo apt install git-lfs
+    git lfs install
 
 macOS (Homebrew):
 
-brew install git-lfs
-git lfs install
+    brew install git-lfs
+    git lfs install
 
 Windows (Git Bash):
 
-git lfs install
+    git lfs install
 
 🔹 Clone the repository
 
-git clone https://github.com/Pushpenderrathore/Antares.git
-cd Antares
+    git clone https://github.com/Pushpenderrathore/Antares.git
+    cd Antares
 
 Git LFS will automatically fetch the binaries.
 
@@ -89,22 +89,22 @@ size 97918723
 
 then run:
 
-git lfs pull
+    git lfs pull
 
 🚀 Quick Start (Linux)
 
 # Install Git LFS
-sudo apt install git-lfs
-git lfs install
+    sudo apt install git-lfs
+    git lfs install
 
 # Clone repo and install
-git clone https://github.com/Pushpenderrathore/Antares.git
-cd Antares
-chmod +x install.sh
-./install.sh
+    git clone https://github.com/Pushpenderrathore/Antares.git
+    cd Antares
+    chmod +x install.sh
+    ./install.sh
 
 # Launch
-antares
+    antares
 
 ⚠️ Notes
 
