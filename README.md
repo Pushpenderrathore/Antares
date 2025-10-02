@@ -32,11 +32,8 @@ This repository contains:
    ```bash
    git clone https://github.com/Pushpenderrathore/Antares.git
    cd Antares
-
-    Run the installer:
-
-chmod +x install.sh
-./install.sh
+   chmod +x install.sh
+   ./install.sh
 
 Launch with:
 
